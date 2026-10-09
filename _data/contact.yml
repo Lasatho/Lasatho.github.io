@@ -10,7 +10,7 @@
 #
 - type: linkedin
   icon: 'fab fa-linkedin'
-  url:  'www.linkedin.com/in/lasse-ahrens-363b54234'
+  url:  'https://www.linkedin.com/in/lasse-ahrens-363b54234'
 
 - type: email
   icon: "fas fa-envelope"
