@@ -1,0 +1,30 @@
+title: Lasse Althoff
+description: >-
+  Embedded- & IoT-Security, Reverse Engineering, ML-gestützte Intrusion Detection.
+author:
+  name: Lasse Althoff
+# email: wird bewusst nicht öffentlich ausgegeben – Kontakt über Formular/Links
+
+# GitHub-Pages-natives Theme (kein Actions-Build nötig)
+theme: minima
+minima:
+  skin: dark
+  social_links:
+    - platform: github
+      user_url: "https://github.com/Lasatho"
+    # - platform: linkedin
+    #   user_url: "https://www.linkedin.com/in/..."
+
+# Navigation
+header_pages:
+  - projects.md
+  - about.md
+
+# Build
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
