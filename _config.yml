@@ -32,7 +32,7 @@ twitter:
 social:
   # Change to your full name.
   name: Lasse Ahrens
-  email: # bewusst leer – keine öffentliche E-Mail
+  email: lasse.ahrens@proton.me
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
@@ -70,7 +70,7 @@ pageviews:
   provider:
 
 # Prefer color scheme setting.
-theme_mode: # [light | dark]
+theme_mode: dark # [light | dark]
 
 # The CDN endpoint for media resources.
 cdn:
