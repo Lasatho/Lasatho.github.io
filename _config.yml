@@ -1,12 +1,12 @@
-title: Lasse Althoff
+title: Lasse Ahrens
 description: >-
   Embedded- & IoT-Security, Reverse Engineering, ML-gestützte Intrusion Detection.
 author:
-  name: Lasse Althoff
+  name: Lasse Ahrens
 # email: wird bewusst nicht öffentlich ausgegeben – Kontakt über Formular/Links
 
 # GitHub-Pages-natives Theme (kein Actions-Build nötig)
-theme: minima
+theme: chirpy
 minima:
   skin: dark
   social_links:
