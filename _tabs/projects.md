@@ -18,8 +18,6 @@ Nymgate is a proxy service, which enables OT-Security Architects with the possib
 the internet under the highest security requirements. For that it accesses the nym network, a multi-hop mixnet with sphinx encryption to ensure the security of operational data, such as meta data. The project is only a prototype at the moment and a 
 proof of concept. In the future I plan to modularize the code structure to make it adaptable to bus protocols such as MQTT or OPC UA and add a secure management interface. 
 
-<!-- - Repo: ... -->
-<!-- - Writeup: ... -->
 
 ## Firmware-Rehosting (in Arbeit)
 
