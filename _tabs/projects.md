@@ -4,14 +4,21 @@ icon: fas fa-diagram-project
 order: 1
 ---
 
-Auswahl. Jedes Projekt verlinkt auf Repo und Writeup.
+## UAV Intrusion Detection (Master Thesis)
 
-## UAV Intrusion Detection (Masterarbeit)
-
-ML-gestützte Angriffserkennung für Drohnen. Aufbau eines Normal- und
-Angriffsdatensatzes in Simulation, Training und Evaluation von
-Anomalie-Modellen.
+In my Master Thesis I am evaluating real world models (JEPA, RSSM) in relation to their applicability in the field of 
+embedded intrusion detection. For that I set up a simulation stack, utilizing various software and combining them with a 
+selfmade interface, in order to generate training and evaluation data. I also configured an environment, consisting of a simulation pc, training pc, embedded device (Jetson Nano) and development pc and connected those with a VPN, such as selfmade pipelines to automate the data flow. 
 <!-- - Repo: <https://github.com/Lasatho/UAV-IDS-DroneBridge> -->
+<!-- - Writeup: ... -->
+
+## Nymgate (work in progress)
+
+Nymgate is a proxy service, which enables OT-Security Architects with the possibility to securely stream their data into
+the internet under the highest security requirements. For that it accesses the nym network, a multi-hop mixnet with sphinx encryption to ensure the security of operational data, such as meta data. The project is only a prototype at the moment and a 
+proof of concept. In the future I plan to modularize the code structure to make it adaptable to bus protocols such as MQTT or OPC UA and add a secure management interface. 
+
+<!-- - Repo: ... -->
 <!-- - Writeup: ... -->
 
 ## Firmware-Rehosting (in Arbeit)
